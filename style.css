@@ -136,7 +136,7 @@ background-color: hsl(0, 100%, 67%,0.1);
         gap: 2rem;
         max-width: 600px;
         width: 100%;
-        border: 1px solid var(--neutral-lavender-300);
+        border: 0;
         border-radius: 1.3rem;
 
 }
